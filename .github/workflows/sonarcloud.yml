@@ -32,4 +32,4 @@ jobs:
             -Dsonar.projectKey=79816_yfprime_sample-repo-t7
             -Dsonar.sources=.
         env:
-          SONAR_TOKEN: ${6fc64e77a52492cc3cf278022dc09d987a996389}
+          SONAR_TOKEN: a832ec3c175662f182472ee49598e559289aecb6
